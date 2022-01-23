@@ -1,0 +1,1 @@
+Projekt oblicza różnice pomiędzy pomiarami i zapisuje je w pliku tekstowym. Dane pomiarowe zostają wczytane z innych plików tekstowych z danymi.

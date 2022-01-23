@@ -1,0 +1,8 @@
+pomiar1     12:30      40.5
+pomiar2     17:33        36
+pomiar3     17:28      38.9
+pomiar4     18:35      40.7
+pomiar5     20:23      22.9
+pomiar6     19:31      34.7
+pomiar7     11:20        40
+Liczba zapisanych pomiarow: 7
